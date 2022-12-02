@@ -10,6 +10,9 @@ FastClick is developed by [FT Labs](http://labs.ft.com/), part of the Financial 
 
 [日本語で説明](https://developer.mozilla.org/ja/docs/Mozilla/Firefox_OS/Apps/Tips_and_techniques#Make_events_immediate)。
 
+## About this fork
+This fork builds on the fork by [lasselaakkonen](https://github.com/lasselaakkonen/fastclick). This fork also implements a fix for an InvalidStateError for input fields of type number [as discussed at the fastclick repo (Issue #358)](https://github.com/ftlabs/fastclick/issues/358)
+
 ## Why does the delay exist? ##
 
 According to [Google](https://developers.google.com/mobile/articles/fast_buttons):
