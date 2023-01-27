@@ -1,3 +1,9 @@
+# Deprecation notice
+> **Warning**
+> This package is no longer actively maintained. 
+> We do not need the polyfill as it is now commonly adapted in all browsers.
+> This serves as an archive and may be deleted in the future.
+
 # FastClick #
 
 FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
